@@ -2,7 +2,7 @@ Description:
 
 Print a file using only single line. 
 Second argument controls the output length and it will cut the line if it's longer.
-
+Depends on: docopt
 
 
 Example:

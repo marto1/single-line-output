@@ -15,6 +15,8 @@ Example:
 TODOs:
 
 Wrap by word
+
 Control if padding should be added
+
 Control if fixed should be used
  
